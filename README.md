@@ -1,5 +1,5 @@
-# mysql-auth-plugin
-Jenkins mysql-auth plugin
+# Custom Security Realm Plugin for Jenkins
+This is a Custom Security Realm Plugin for Jenkins built using Java
 
 ## About this repository
 This repository contains a bare sample Jenkins plugin skeleton that implements a custom authentication realm for Jenkins.
